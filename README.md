@@ -112,8 +112,12 @@ FUTURE IMPROVEMENTS
 
 AUTHOR
 
-Bhavesh Rangrej
-BTech CSE (AI/ML)
+Prarthana Kolhapure
+BTech CSE
+SCFU125021
+Purva Kondguli
+BTech CSE
+SCFU125052
 
 --------------------------------------------------
 
