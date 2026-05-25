@@ -118,6 +118,9 @@ SCFU125021
 Purva Kondguli
 BTech CSE
 SCFU125052
+Jay Arote 
+BTech CSE
+SCFU125030
 
 --------------------------------------------------
 
